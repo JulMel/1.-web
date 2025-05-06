@@ -15,7 +15,7 @@ Tento projekt vznikl v rámci kurzu HTML a CSS. Sloužil mi k procvičení zákl
 
 ## 📸 Ukázka
 
-<img width="1440" alt="WEB1-doodle" src="https://github.com/user-attachments/assets/a0e0605e-0139-49d4-a3ce-4d518eb5d908" />
+<img width="1440" alt="WEB1-doodle (1)" src="https://github.com/user-attachments/assets/7b60cf12-1584-44c3-9768-624ce7413c6d" />
 
 ---
 
